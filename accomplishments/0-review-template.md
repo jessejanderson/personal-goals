@@ -1,6 +1,6 @@
-# This Weeks Accomplishments: November 00, 2014
+# This Week's Accomplishments: -- date here --
 
-## This Week's Goal: Be Awesome
+## This Week's Focus:
 
 ## Things I Did From the List:
 
@@ -8,7 +8,7 @@
 
 ## Things I Didn't Get to/Finish:
 
-## Next Week's Goal: ATX Sass Website
+## Next Week's Focus:
 
 ## Things I'll do Next Week:
 

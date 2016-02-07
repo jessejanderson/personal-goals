@@ -3,40 +3,32 @@ Personal Goals
 
 Personal goals made open source.
 
-Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
+# Overarching Goals for 2016
+1. Bridge the Designer/Developer Gap
+2. Learn About Elixir/Phoenix/Elm/React
+3. Contribute to Open Source
+4. Write Blog posts
+5. Prioritize My Health
+6. Be Kind
 
-# Overarching Goals
-1. Contribute to Open Source
-2. Write more blog posts
-3. Use _______ more
-4. Get better at _______
-5. Learn about _______
-6. Be kind
+# February 07, 2016
 
-# November 00, 2014
-
-### This Week's Goal: Be Awesome.
+### This Week's Focus: Plan For The Future
 
 ## Things I'll Do This Week:
-- [x] Play with puppies
-- [ ] Watch 2 videos from my content list about ______
-- [ ] Write a blog post
-- [ ] Continue learning about narwhals
-- [ ] Create slides for my talk about music
+- [ ] Think about what I want to do this year
+- [ ] Plan for Valentine's Day
+- [ ] Watch 3 videos from my content list about Elixir
 - [ ] Send Una a nice email (una.kravets@gmail.com)
 - [x] Read [this blog post](http://una.github.io/personal-goals-guide/)
 
-### Things I'll Do This Month: November 2014
-- [ ] Read a book
-- [x] Create a website for my dog
-- [ ] Teach my dog how to fetch me beer
-- [ ] Build a castle out of cardboard
-- [ ] Submit a proposal for a thing
-- [ ] Come up with a new side project
+### Things I'll Do In The Future
+- [ ] Finish reading a book from my list
+- [ ] Complete an exercism exercise
 
 ### Backlog: Side Projects :)
-- [ ] Work on [my cool project I forgot about](http://google.com)
+- [ ] Work on converting EchoFaith to Phoenix
 
 ### Backlog: Code Things I Want to Do/Play With
-1. Create yeoman generator
-2. Build a robot that takes over the world
+- [Apps & Other Projects](https://github.com/jessejanderson/personal-goals/blob/master/ideas-and-misc/app-ideas.md)
+- [Blog Post Ideas](https://github.com/jessejanderson/personal-goals/blob/master/ideas-and-misc/blog-ideas.md)
