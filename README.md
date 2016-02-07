@@ -26,8 +26,9 @@ Personal goals made open source.
 - [ ] Finish reading a book from my list
 - [ ] Complete an exercism exercise
 
-### Backlog: Side Projects :)
-- [ ] Work on converting EchoFaith to Phoenix
+### Backlog: Side Projects
+- [ ] Convert EchoFaith to Phoenix
+- [ ] Convert NWM to Phoenix
 
 ### Backlog: Code Things I Want to Do/Play With
 - [Apps & Other Projects](https://github.com/jessejanderson/personal-goals/blob/master/ideas-and-misc/app-ideas.md)
