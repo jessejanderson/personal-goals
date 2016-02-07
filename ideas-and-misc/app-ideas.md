@@ -1,6 +1,8 @@
 # App & Project Ideas
 
-_Nothing to see here... yet._
+### Atom Plugin Ideas
+- [ ] File Actions (Rename, Copy, Move, etc in Command Palette)
+- [ ] Better fuzzy-grep (easier to read visually, like spacemacs)
 
 ### Projects I've Started
 
