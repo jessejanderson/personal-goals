@@ -1,10 +1,15 @@
 # Books to Read
 _Note: Listed in no particular order_
 
+:star: Loved it
+:sleeping: Boring
+:book: In Progress
+
 ## Non-fiction
-- [ ] Programming Phoenix -- Chris McCord, Jose Valim, Bruce Tate
-- [ ] Programming Elixir -- Dave Thomas
-- [ ] Practical Vim -- Drew Neil
+- [ ] :book: Programming Phoenix -- Chris McCord, Jose Valim, Bruce Tate
+- [ ] :book: Programming Elixir -- Dave Thomas
+- [ ] :book: Practical Vim -- Drew Neil
+- [ ] Elixir In Action -- Sasa Juric
 - [ ] Metaprogramming Elixir -- Chris McCord
 - [ ] Exercises for Programmers -- Brian Hogan
 - [ ] The Little Elixir & OTP Guidebook -- Benjamin Tan Wei Hao
@@ -15,5 +20,5 @@ _Note: Listed in no particular order_
 - [ ] [Learn Enough Git to Be Dangerous](http://www.learnenough.com/git-tutorial)
 
 ## Fiction
-- [ ] Abomination -- Gary Whitta
+- [ ] :book: Abomination -- Gary Whitta
 - [ ] Armada -- Ernest Cline

@@ -41,6 +41,37 @@ _Note: some of these are obsolete and will be skipped_
 - [ ] ...
 - [ ] ...
 
+### React For Beginners
+- [ ] 1. Development Environment Setup with Gulp + Browserify (12:38)
+- [ ] 2. Introduction to React Components (6:36)
+- [ ] 3. Writing your first Component (9:03)
+- [ ] 4. Writing HTML with JSX (8:34)
+- [ ] 5. Creating our application layout with components (5:02)
+- [ ] 6. Passing dynamic data with Props (6:54)
+- [ ] 7. Routing with React Router (13:22)
+- [ ] 8. Using Utility : Helper Functions in React (4:41)
+- [ ] 9. All About React Event Listeners (8:36)
+- [ ] 10. Understanding State (21:58)
+- [ ] 11. Loading Data into State onClick (3:06)
+- [ ] 12. Displaying State with JSX (10:46)
+- [ ] 13. Updating our Order State (10:13)
+- [ ] 14. Displaying our Order State with JSX (12:54)
+- [ ] 15. Persisting State with Firebase (14:00)
+- [ ] 16. Persisting State with LocalStorage (11:03)
+- [ ] 17. Bi-Directional Data Flow with LinkState (16:03)
+- [ ] 18. Updating and Deleting State (10:52)
+- [ ] 19. Animating React Components (24:53)
+- [ ] 20. Component Validation with PropTypes (10:03)
+- [ ] 21. Chunking our code into ES6 Modules (11:49)
+- [ ] 22. ES6 Components Extended (15:47)
+- [ ] 23. Creating React classes with ES6 (3:19)
+- [ ] 24. ES6 and React Mixins (2:06)
+- [ ] 25. Autobinding this with ES7 Decorators (5:47)
+- [ ] 26. Handling React Proptypes with ES6 (1:03)
+- [ ] 27. Working with ES6 and State (5:29)
+- [ ] 28. Converting the rest of our components to ES6 (5:47)
+- [ ] 29. Locking down our Application with Firebase oAuth Authentication (26:39)
+
 # Videos Watched
 
 ### LearnElixir.tv
