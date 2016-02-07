@@ -13,3 +13,6 @@
 - [ ] [From Ruby to Elixir and Back](http://blog.onfido.com/queues-pubsub-and-rpc-from-ruby-to-elixir-and-back/)
 - [ ] [Phoenix with Elm: Part 1](http://www.cultivatehq.com/posts/phoenix-elm-1/)
 - [ ] [Building a Basic CRUD App (Elixir/Phoenix)](http://gogogarrett.sexy/programming-in-elixir-with-the-phoenix-framework-building-a-basic-CRUD-app/)
+
+### React
+- [ ] [React How To](https://github.com/petehunt/react-howto)

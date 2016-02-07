@@ -1,5 +1,6 @@
 # Blog Ideas
 _Note: I don't have a blog yet. ;)_
 
-- incomplete idea
-- ~~complete idea~~
+- [ ] From Designer To Developer
+- [ ] Why I Loved And Left Spacemacs
+- [ ] General "I Love Elixir" post
