@@ -41,6 +41,13 @@ _Note: some of these are obsolete and will be skipped_
 - [ ] ...
 - [ ] ...
 
+### ExCasts.com
+- [ ] 1. A Simple Service Coordinator [Demystifying the GenServer] (19:12)
+- [ ] 2. A Connection Acceptor [Demystifying the GenServer] (5:01)
+- [ ] 3. Processes and Messaging (4:37)
+- [ ] 4. A Custom Phoenix Plug (4:05)
+- [ ] 5. EXRM Release for a Simple Elixir Project [Releases and Deployment with EXRM] (11:23)
+
 ### React For Beginners
 - [ ] 1. Development Environment Setup with Gulp + Browserify (12:38)
 - [ ] 2. Introduction to React Components (6:36)
