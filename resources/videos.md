@@ -19,7 +19,6 @@
 ### Elixir Sips
 _Note: some of these are obsolete and will be skipped_
 - [ ] 016 - Pipe Operator (14m)
-- [ ] 024 - Ecto, Part 1 (9m)
 - [ ] 025 - Ecto, Part 2: Dwitter (10m)
 - [ ] 026 - Dict, Part 1 (7m)
 - [ ] 027 - Dict, Part 2 (5m)
@@ -116,3 +115,4 @@ _Note: some of these are obsolete and will be skipped_
 - [x] 021 - ZeldaCat, Part 2 (8m)
 - [x] 022 - OTP, Part 4: Supervisors (10m) :star:
 - [x] 023 - OTP, Part 5: Supervisors and Persistent State (12m) :star:
+- [x] 024 - Ecto, Part 1 (9m) :star:

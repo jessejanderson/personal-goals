@@ -23,7 +23,7 @@ Personal goals made open source.
 - [ ] Send Una a nice email (una.kravets@gmail.com)
 - [ ] Think about what I want to accomplish this year
 - [ ] Plan for Valentine's Day
-- [ ] Watch 3 videos from my content list about Elixir [ 0 / 3 ]
+- [ ] Watch 3 videos from my content list about Elixir [ 2 / 3 ]
 - [ ] Customize Atom to fully use Proton's dotfile format.
 - [x] Update Insurance Information
 - [x] Order Insurance ID Cards
