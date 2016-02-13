@@ -24,7 +24,7 @@ Personal goals made open source.
 - [ ] Think about what I want to accomplish this year
 - [ ] Plan for Valentine's Day
 - [x] Watch 3 videos from my content list about Elixir [ 3 / 3 ]
-- [ ] Customize Atom to fully use Proton's dotfile format.
+- [x] Customize Atom to fully use Proton's dotfile format.
 - [x] Update Insurance Information
 - [x] Order Insurance ID Cards
 
@@ -32,6 +32,7 @@ Personal goals made open source.
 - [ ] Finish reading a book from my list
 - [ ] Complete an exercism exercise
 - [ ] Public speaking about something I think is cool
+- [ ] Finish all exercises in Programming Elixir book
 
 ### Backlog: Side Projects
 - [ ] Convert EchoFaith to Phoenix

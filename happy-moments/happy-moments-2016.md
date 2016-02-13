@@ -1,3 +1,5 @@
+Not going to try to force doing this daily since I keep forgetting, but I'm going to keep it around for times I do want to record a happy moment. Maybe over time I will be able to build up the habit, but right now I'm not going to force it.
+
 02/06/2016
 ---
 Calvin **demanded** we watch Star Wars today (We watched the first hour). He's really starting to remember all the names even though he's only seen it once now - stormtroopers, R2-D2, Darth Vader, Luke, Chewbacca, etc. Still struggling to say C-3PO though. "three seee... wut his name?" Pretty fun watching him grow to love something I love. ;)
@@ -17,6 +19,3 @@ Company hang out at Bagby in Oceanside. Had a good time hanging out with my PCO 
 02/10/2016
 ---
 Played some Jungle Pong with a new Alley-oop rules which make it absolutely insane!
-
-02/11/2016
----

@@ -1,6 +1,7 @@
 # Videos to Watch
 
 ### Misc
+- [ ] [How to Create Tetris in Elm Part 1](https://www.youtube.com/watch?v=GMSXYnMH1gg)
 
 ### LearnElixir.tv
 - [ ] 16. Applications (41:51)
