@@ -4,16 +4,16 @@
 - [x] PatternMatching-1
 - [x] PatternMatching-2
 - [x] PatternMatching-3
+- [x] Functions-1
+- [ ] Functions-2
+- [ ] Functions-3
+- [ ] Functions-4
+- [ ] Functions-5
 
 ### Unsorted
 - [ ] ControlFlow-1
 - [ ] ControlFlow-2
 - [ ] ControlFlow-3
-- [ ] Functions-1
-- [ ] Functions-2
-- [ ] Functions-3
-- [ ] Functions-4
-- [ ] Functions-5
 - [ ] LinkingModules-BehavioursAndUse-1
 - [ ] LinkingModules-BehavioursAndUse-2
 - [ ] LinkingModules-BehavioursAndUse-3
