@@ -18,4 +18,12 @@ Company hang out at Bagby in Oceanside. Had a good time hanging out with my PCO 
 
 02/10/2016
 ---
-Played some Jungle Pong with a new Alley-oop rules which make it absolutely insane!
+Played some Jungle Pong with a new Alley-oop rule which makes it absolutely insane!
+
+02/13/2016
+---
+Family is sick so not a whole lot of fun happening in the house right now. Watched Sherlock (S3 E2) with the wife which was quite strange but very entertaining.
+
+02/14/2016
+---
+Surprised the wife with some delivered flowers and had a great day, despite all the sickness in the house.

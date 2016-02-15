@@ -5,10 +5,17 @@
 - [x] PatternMatching-2
 - [x] PatternMatching-3
 - [x] Functions-1
-- [ ] Functions-2
-- [ ] Functions-3
-- [ ] Functions-4
-- [ ] Functions-5
+- [x] Functions-2
+- [x] Functions-3
+- [x] Functions-4
+- [x] Functions-5
+- [x] ModulesAndFunctions-1
+- [x] ModulesAndFunctions-2
+- [x] ModulesAndFunctions-3
+- [x] ModulesAndFunctions-4
+- [x] ModulesAndFunctions-5
+- [ ] ModulesAndFunctions-6
+- [ ] ModulesAndFunctions-7
 
 ### Unsorted
 - [ ] ControlFlow-1
@@ -30,13 +37,6 @@
 - [ ] MacrosAndCodeEvaluation-1
 - [ ] MacrosAndCodeEvaluation-2
 - [ ] MacrosAndCodeEvaluation-3
-- [ ] ModulesAndFunctions-1
-- [ ] ModulesAndFunctions-2
-- [ ] ModulesAndFunctions-3
-- [ ] ModulesAndFunctions-4
-- [ ] ModulesAndFunctions-5
-- [ ] ModulesAndFunctions-6
-- [ ] ModulesAndFunctions-7
 - [ ] MoreCoolStuff-1
 - [ ] MoreCoolStuff-2
 - [ ] MoreCoolStuff-3

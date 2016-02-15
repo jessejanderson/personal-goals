@@ -4,7 +4,6 @@
 - [ ] [How to Create Tetris in Elm Part 1](https://www.youtube.com/watch?v=GMSXYnMH1gg)
 
 ### LearnElixir.tv
-- [ ] 16. Applications (41:51)
 - [ ] 17. Task and Agent (3:21)
 - [ ] 18. Nodes (4:00)
 - [ ] 19. Protocols (8:38)
@@ -91,10 +90,11 @@ _Note: some of these are obsolete and will be skipped_
 - [x] 9. Sigils (5:15)
 - [x] 10. Mix (17:57)
 - [x] 11. Hex (7:03)
-- [x] 12. ExUnit (9:31)
-- [x] 13. Processes (10:21)
-- [x] 14. GenServer (11:53)
-- [x] 15. Supervisor (9:08)
+- [x] 12. ExUnit (9:31) :star:
+- [x] 13. Processes (10:21) :star:
+- [x] 14. GenServer (11:53) :star:
+- [x] 15. Supervisor (9:08) :star:
+- [x] 16. Applications (41:51) :star:
 
 ### Elixir Sips
 - [x] 001 - Introduction and Installing Elixir (6m)

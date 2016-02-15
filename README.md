@@ -14,25 +14,25 @@ Personal goals made open source.
 8. Prioritize My Health
 9. Be Kind
 
-# February 07, 2016
+# February 14, 2016
 
 ### This Week's Focus: Plan For The Future
 
 ## Things I'll Do This Week:
-- [x] Read [this blog post](http://una.github.io/personal-goals-guide/)
 - [ ] Send Una a nice email (una.kravets@gmail.com)
 - [ ] Think about what I want to accomplish this year
-- [ ] Plan for Valentine's Day
-- [x] Watch 3 videos from my content list about Elixir [ 3 / 3 ]
-- [x] Customize Atom to fully use Proton's dotfile format.
-- [x] Update Insurance Information
-- [x] Order Insurance ID Cards
+- [ ] Post alternative Atom logo on Dribble/Github
+- [ ] Complete an exercism exercise
+- [ ] Add all of Elixir's Enum functions to Anki
+- [ ] Do 40 Anki flash cards all 7 days this week [S m t w t f s]
 
 ### Things I'll Do In The Future
 - [ ] Finish reading a book from my list
 - [ ] Complete an exercism exercise
-- [ ] Public speaking about something I think is cool
+- [ ] Speak publicly about something I think is cool
 - [ ] Finish all exercises in Programming Elixir book
+- [ ] Add all of Elixir's List functions to Anki
+- [ ] Add all of Elixir's Map functions to Anki
 
 ### Backlog: Side Projects
 - [ ] Convert EchoFaith to Phoenix
