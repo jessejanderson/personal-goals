@@ -16,7 +16,7 @@ Personal goals made open source.
 
 # February 14, 2016
 
-### This Week's Focus: Plan For The Future
+### This Week's Focus: Elixir/Phoenix Know What I Know
 
 ## Things I'll Do This Week:
 - [ ] Send Una a nice email (una.kravets@gmail.com)
