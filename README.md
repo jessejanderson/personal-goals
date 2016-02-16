@@ -23,8 +23,8 @@ Personal goals made open source.
 - [ ] Think about what I want to accomplish this year
 - [ ] Post alternative Atom logo on Dribble/Github
 - [ ] Complete an exercism exercise
-- [ ] Add all of Elixir's Enum functions to Anki
-- [ ] Do 40 Anki flash cards all 7 days this week [S m t w t f s]
+- [ ] Do 40 Anki flash cards all 7 days this week [S M t w t f s]
+- [x] Add all of Elixir's Enum functions to Anki (skipped: flat_map_reduce/3)
 
 ### Things I'll Do In The Future
 - [ ] Finish reading a book from my list
