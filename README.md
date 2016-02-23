@@ -14,7 +14,7 @@ Personal goals made open source.
 8. Prioritize My Health
 9. Be Kind
 
-# February 14, 2016
+# February 21, 2016
 
 ### This Week's Focus: Elixir/Phoenix Know What I Know
 
@@ -23,8 +23,9 @@ Personal goals made open source.
 - [ ] Think about what I want to accomplish this year
 - [ ] Post alternative Atom logo on Dribble/Github
 - [ ] Complete an exercism exercise
-- [ ] Do 40 Anki flash cards all 7 days this week [S M t w t f s]
-- [x] Add all of Elixir's Enum functions to Anki (skipped: flat_map_reduce/3)
+- [ ] Finish Chapter 4 of Elixir in Action
+- [ ] Read Chapter 5 of Elixir in Action
+- [ ] Read Chapter 6 of Elixir in Action
 
 ### Things I'll Do In The Future
 - [ ] Finish reading a book from my list
