@@ -22,7 +22,8 @@ Personal goals made open source.
 - [ ] Send Una a nice email (una.kravets@gmail.com)
 - [ ] Think about what I want to accomplish this year
 - [ ] Post alternative Atom logo on Dribble/Github
-- [ ] Complete an exercism exercise
+- [x] Complete an exercism exercise
+- [x] Complete another exercism exercise
 - [ ] Finish Chapter 4 of Elixir in Action
 - [ ] Read Chapter 5 of Elixir in Action
 - [ ] Read Chapter 6 of Elixir in Action
